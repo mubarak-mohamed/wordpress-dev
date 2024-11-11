@@ -1,6 +1,5 @@
 WordPress Bedrock with Timber Setup
 =========================
-
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/mubarak-mohamed/wordpress-dev/Testing?style=flat-square)](https://github.com/mubarak-mohamed/wordpress-dev/actions/workflows/testing.yml?query=branch%3Amaster+workflow%3ATesting)
 ![Packagist Downloads](https://img.shields.io/packagist/dt/mubarak-mohamed/wordpress-dev?style=flat-square)
 ![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/mubarak-mohamed/wordpress-dev?style=flat-square)
