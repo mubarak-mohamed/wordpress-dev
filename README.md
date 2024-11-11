@@ -1,6 +1,11 @@
+WordPress Bedrock with Timber Setup
+=========================
 
-`
-# WordPress Bedrock with Timber Setup
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/mubarak-mohamed/wordpress-dev/Testing?style=flat-square)](https://github.com/mubarak-mohamed/wordpress-dev/actions/workflows/testing.yml?query=branch%3Amaster+workflow%3ATesting)
+![Packagist Downloads](https://img.shields.io/packagist/dt/mubarak-mohamed/wordpress-dev?style=flat-square)
+![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/mubarak-mohamed/wordpress-dev?style=flat-square)
+[![License](https://poser.pugx.org/mubarak-mohamed/wordpress-dev/license)](https://packagist.org/packages/mubarak-mohamed/wordpress-dev) 
+## Description
 
 This project uses WordPress with a Bedrock structure, managed by DDEV, and utilizes Timber for templating with Twig. This setup provides a modern development environment for building WordPress sites.
 
@@ -197,7 +202,7 @@ Once you've completed the above steps, you can test your site by visiting ` http
 - [Bedrock Documentation](https://roots.io/bedrock/)
 - [Timber Documentation](https://timber.github.io/timber/) 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://mit-license.org/) file for details.
+This project is is an open-sourced software licensed under the [MIT license](https://github.com/mediumart/orange/blob/master/LICENSE.txt).
 
 ## Contributing :
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create 
