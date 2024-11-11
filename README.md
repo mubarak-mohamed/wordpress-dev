@@ -1,6 +1,6 @@
 WordPress Bedrock with Timber Setup
 =================
-[![License](https://poser.pugx.org/mubarak-mohamed/wordpress-dev/license)](https://packagist.org/packages/mubarak-mohamed/wordpress-dev/blob/master/LICENSE.txt) 
+[![License](https://poser.pugx.org/mubarak-mohamed/wordpress-dev/license)](https://packagist.org/packages/mubarak-mohamed/wordpress-dev/LICENSE.txt) 
 
 
 ## Description
