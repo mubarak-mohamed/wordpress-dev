@@ -1,11 +1,12 @@
 WordPress Bedrock with Timber Setup
 =================
-[![License](https://poser.pugx.org/mubarak-mohamed/wordpress-dev/license)](https://packagist.org/packages/mubarak-mohamed/wordpress-dev/LICENSE.txt) 
-
+[![GitHub license](https://img.shields.io/github/license/mubarak-mohamed/wordpress-dev)](https://github.com/mubarak-mohamed/wordpress-dev/blob/main/LICENSE) [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/mubarak-mohamed/badges)
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
+ [![Package Control total downloads](https://img.shields.io/packagecontrol/dt/SwitchDictionary.svg)](https://packagecontrol.io/packages/SwitchDictionary)
 
 ## Description
 
-This project uses WordPress with a Bedrock structure, managed by DDEV, and utilizes Timber for templating with Twig. This setup provides a modern development environment for building WordPress sites.
+This project uses WordPress with a Bedrock structure, managed by DDEV, and utilizes Timber for templating with Twig. Bedrock provides a modern project structure, dependency management, and enhanced security for WordPress development, while Timber allows developers to create clean, reusable templates using the Twig templating engine. This setup ensures a streamlined and efficient development environment for building robust WordPress sites.
 
 ## Technologies Used
 
@@ -202,9 +203,13 @@ Once you've completed the above steps, you can test your site by visiting ` http
 ## License
 This project is is an open-sourced software licensed under the [MIT license](https://github.com/mubarak-mohamed/wordpress-dev/blob/master/LICENSE.txt).
 
+
 ## Contributing :
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create 
 . Any contributions you make are **greatly appreciated**.
 If you have a suggestion that would make this better, please fork the Repo and create a pull request
 . Don't forget to give the project a star! Thanks again! .
+
+[![Attribution-NonCommercial-ShareAlike](https://licensebuttons.net/i/l/by-nc-sa/ffffff/00/00/00/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+
 
