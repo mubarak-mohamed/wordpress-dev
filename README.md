@@ -2,7 +2,6 @@ WordPress Bedrock with Timber Setup
 =================
 [![GitHub license](https://img.shields.io/github/license/mubarak-mohamed/wordpress-dev)](https://github.com/mubarak-mohamed/wordpress-dev/blob/main/LICENSE) [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/mubarak-mohamed/badges)
 [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
- [![Package Control total downloads](https://img.shields.io/packagecontrol/dt/SwitchDictionary.svg)](https://packagecontrol.io/packages/SwitchDictionary)
 
 ## Description
 
@@ -211,5 +210,3 @@ If you have a suggestion that would make this better, please fork the Repo and c
 . Don't forget to give the project a star! Thanks again! .
 
 [![Attribution-NonCommercial-ShareAlike](https://licensebuttons.net/i/l/by-nc-sa/ffffff/00/00/00/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
-
-
